@@ -1,0 +1,177 @@
+[
+  {
+    "type": "COFFEE",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110563]_20210426095937947.jpg",
+    "name": "아이스 카페 아메리카노",
+    "price": "3500원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "COFFEE",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110569]_20210415143036138.jpg",
+    "name": "아이스 카페 라떼",
+    "price": "4500원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "COFFEE",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110566]_20210415134334432.jpg",
+    "name": "아이스 카페 모카",
+    "price": "5000원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "COFFEE",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110572]_20210415155545520.jpg",
+    "name": "아이스 화이트 초콜릿 모카",
+    "price": "5000원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "COFFEE",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110582]_20210415142706229.jpg",
+    "name": "아이스 카라멜 마키아또",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "COFFEE",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[128695]_20210426092032110.jpg",
+    "name": "아이스 돌체 라떼",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "FRAPPUCCINO",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[168007]_20210415144337572.jpg",
+    "name": "에스프레소 프라푸치노",
+    "price": "3500원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "FRAPPUCCINO",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[168016]_20210415154152277.jpg",
+    "name": "자바 칩 프라푸치노",
+    "price": "4500원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "FRAPPUCCINO",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[168010]_20210415154711259.jpg",
+    "name": "카라멜 프라푸치노",
+    "price": "5000원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "FRAPPUCCINO",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110572]_20210415155545520.jpg",
+    "name": "아이스 화이트 초콜릿 모카",
+    "price": "5000원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "FRAPPUCCINO",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[168013]_20210415155746535.jpg",
+    "name": "화이트 초콜릿 모카 프라푸치노",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "FRAPPUCCINO",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[168066]_20210415154429903.jpg",
+    "name": "초콜릿 크림 칩 프라푸치노",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "FRAPPUCCINO",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/05/[9200000004713]_20230524144814462.jpg",
+    "name": "피스타치오 아보카도 초콜릿 프라푸치노",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "FRAPPUCCINO",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9200000002403]_20210419131548806.jpg",
+    "name": "화이트 타이거 프라푸치노",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "TEA",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[4004000000069]_20210415143811387.jpg",
+    "name": "아이스 히비스커스 블렌드 티",
+    "price": "3500원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "TEA",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[4004000000079]_20210415143641288.jpg",
+    "name": "아이스 캐모마일 블렌드 티",
+    "price": "4500원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "TEA",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[4004000000039]_20210415142056015.jpg",
+    "name": "아이스 얼 그레이 티",
+    "price": "5000원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "DESERT",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/01/[9300000004966]_20240102082130994.jpg",
+    "name": "꿀 고구마 생크림 케이크",
+    "price": "3500원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "DESERT",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/05/[9300000004485]_20230524125744206.jpg",
+    "name": "바스크 치즈 케이크",
+    "price": "4500원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "DESERT",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[5110007181]_20210421164728664.jpg",
+    "name": "부드러운 생크림 카스텔라",
+    "price": "5000원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "DESERT",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9300000002926]_20210210172612813.jpg",
+    "name": "부드러운 티라미수 롤",
+    "price": "5000원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "DESERT",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/01/[9300000002448]_20230102083308920.jpg",
+    "name": "슈크림 가득 바움쿠헨",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "DESERT",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9300000000132]_20210422112714304.jpg",
+    "name": "클라우드 치즈 케이크",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "DESERT",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/05/[9300000000913]_20220523144609443.jpg",
+    "name": "블루베리 쿠키 치즈 케이크",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  },
+  {
+    "type": "DESERT",
+    "src": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/05/[9300000002064]_20220523145701691.jpg",
+    "name": "크레이프 에멘탈 치즈 케이크",
+    "price": "5200원",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta iusto animi eos omnis deleniti laudantium perspiciatis tempore sapiente? Doloribus minus labore dolor necessitatibus quod facilis molestias similique sequi dolore saepe!"
+  }
+]

@@ -1,0 +1,70 @@
+@import "reset.css";
+
+:root {
+  --mocha: #3c3633;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: var(--mocha);
+  padding: 3rem;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  padding: 0 1em 1em;
+  font-weight: 600;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border-bottom: 1px solid var(--mocha);
+  margin: 0 0 3.3em;
+  cursor: pointer;
+}
+li {
+  text-align: center;
+  padding: 1em;
+}
+.clicked {
+  background-color: lightgray;
+  font-weight: 600;
+}
+
+#list-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  grid-template-rows: min-content;
+  gap: 3rem;
+}
+.item-container {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  grid-template-rows: auto 1fr;
+  gap: 1rem;
+  color: var(--mocha);
+}
+.item-container img {
+  max-height: 12rem;
+  grid-row: span 2;
+}
+.item-container h2 {
+  font-weight: 550;
+  justify-items: start;
+}
+.menu-item-price {
+  justify-items: end;
+}
+.menu-item-description {
+  grid-column: span 2;
+  align-items: start;
+}
+
+#footer-content {
+  padding: 4em 0 1em;
+  position: relative;
+  width: 100%;
+}
